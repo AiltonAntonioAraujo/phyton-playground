@@ -17,7 +17,7 @@ image:
 
 tasks:
   - init: pip3 install -r requeriments.txt
-    command: python3 src/app.py
+    #command: python3 src/app.py
 
 vscode:
     extensions:
