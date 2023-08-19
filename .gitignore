@@ -1,3 +1,8 @@
+# ignorando arquivos muito grandes LFS
+estudantes.xlsx
+pbf2021.csv
+tabela_pbf.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
